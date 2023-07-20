@@ -8,6 +8,8 @@ packages = [{include = "infinite_fn"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+func-ai = "^0.0.14"
+pytest = "^7.4.0"
 
 
 [build-system]
